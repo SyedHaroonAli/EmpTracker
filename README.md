@@ -1,2 +1,3 @@
 # EmpTracker
-This repository is to track employess of any company
+
+This repository is to track employes of any company
